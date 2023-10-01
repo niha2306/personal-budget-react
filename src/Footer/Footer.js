@@ -2,8 +2,8 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer class="bottom">
-        <section class="center">
+    <footer className="bottom">
+        <section className="center">
             All rights reserved &copy; Fabio Nolasco
         </section>
     </footer>
